@@ -1,4 +1,9 @@
-### Hola Amigos😀
+### Hello There!
+My name is Ahmed Hanafy and I’m a computational designer and architect working at the intersection of 
+architecture, parametric design, and software development.
+
+I build systems not just shapes using code, algorithms, and data 
+to explore, evaluate, and generate design solutions.
 
 <!--
 **AhmedMahmoudHanafy/ahmedmahmoudhanafy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
