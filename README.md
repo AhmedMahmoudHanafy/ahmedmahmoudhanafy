@@ -1,5 +1,5 @@
 ### Hello There!
-My name is Ahmed Hanafy and I’m a computational designer and architect working at the intersection of 
+My name is Ahmed Hanafy and I’m a computational designer, Researcher and Architect working at the intersection of 
 architecture, parametric design, and software development.
 
 I build systems not just shapes using code, algorithms, and data 
